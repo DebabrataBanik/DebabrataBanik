@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Debabrata</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Debabrata from India.<br><br>I’m currently focused on learning and improving my skills in React and its ecosystem, testing libraries and TypeScript with plans to explore Next.js soon. While I’m not working on any specific projects, I’d love to collaborate on beginner-friendly ideas that help me gain exposure and experience. I’m seeking guidance to learn professional ways of setting up projects and growing as a developer. If you have any questions, feel free to ask—I’ll try to help if I can!
+<p align="left">I’m currently focused on learning and improving my skills in React and its ecosystem, testing libraries and TypeScript with plans to explore Next.js soon. While I’m not working on any specific projects, I’d love to collaborate on beginner-friendly ideas that help me gain exposure and experience. I’m seeking guidance to learn professional ways of setting up projects and growing as a developer. If you have any questions, feel free to ask—I’ll try to help if I can!
 </p>
 
 ###

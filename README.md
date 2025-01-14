@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debabrata Banik</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debabratabanik&label=Profile%20views&color=0e75b6&style=flat" alt="debabratabanik" /> </p>
-
 - 🔭 I’m currently working on **Still in the learning phase, focusing on improving my skills and understanding foundational concepts.**
 
 - 🌱 I’m currently learning **React and its ecosystem. Testing libraries and TypeScript, with plans to dive into Next.js next.**

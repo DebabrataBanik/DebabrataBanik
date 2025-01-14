@@ -7,7 +7,6 @@
 ###
 
 <p align="left">I'm Debabrata from India.<br><br>I’m currently focused on learning and improving my skills in React and its ecosystem, testing libraries and TypeScript with plans to explore Next.js soon. While I’m not working on any specific projects, I’d love to collaborate on beginner-friendly ideas that help me gain exposure and experience. I’m seeking guidance to learn professional ways of setting up projects and growing as a developer. If you have any questions, feel free to ask—I’ll try to help if I can!
-📫 You can reach me at: <a href="mailto:debabratabanik02@gmail.com">debabratabanik02@gmail.com</a>
 </p>
 
 ###
@@ -15,6 +14,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/debabrata-banik-9870461b6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:debabratabanik02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://dribbble.com/dk_banik" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />

@@ -65,8 +65,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DebabrataBanik&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DebabrataBanik&theme=gruvbox&utcOffset=8)
 
-![Isometric Calendar](./metrics.plugin.isocalendar.fullyear.svg)
-
 </div>
 
 

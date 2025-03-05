@@ -11,12 +11,12 @@
 
 ###
 
-<h3 align="left">💬 Connect with me</h3>
+<h3 align="left">💬 Get in Touch</h3>
 
 <p align="left">
   📧 Email: <a href="mailto:debabratabanik02@gmail.com">debabratabanik02@gmail.com</a><br />
-  🔗 Connect with me: <a href="https://www.linkedin.com/in/debabrata-banik-9870461b6/" target="_blank">LinkedIn</a><br />
-  🌐 Portfolio: <a href="https://debabratabanik.vercel.app/" target="_blank">Have a look!</a>
+  🔗 Let's Connect: <a href="https://www.linkedin.com/in/debabrata-banik-9870461b6/" target="_blank">LinkedIn</a><br />
+  🌐 Portfolio: <a href="https://debabratabanik.vercel.app/" target="_blank">Visit my website</a>
 </p>
 
 ###

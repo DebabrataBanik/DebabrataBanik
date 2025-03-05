@@ -15,8 +15,8 @@
 
 <p align="left">
   📧 Email: <a href="mailto:debabratabanik02@gmail.com">debabratabanik02@gmail.com</a><br />
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/debabrata-banik-9870461b6/" target="_blank">LinkedIn</a><br />
-<!--   🌐 Portfolio: <a href="" target="_blank"></a> -->
+  🔗 Connect with me: <a href="https://www.linkedin.com/in/debabrata-banik-9870461b6/" target="_blank">LinkedIn</a><br />
+  🌐 Portfolio: <a href="https://debabratabanik.vercel.app/" target="_blank">Have a look!</a>
 </p>
 
 ###

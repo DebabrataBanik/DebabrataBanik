@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debabrata Banik</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 Exploring UI/UX | 🚀 Learning backend step by step</h3>
 
-- 🔭 I’m currently working on **Splitlog**
+- 🔭 I’m currently working on **Weather Now**
 
 - 🌱 I’m currently learning **state management with Zustand, GSAP animations in React, and the basics of fullstack project architecture.**
 

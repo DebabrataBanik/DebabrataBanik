@@ -4,7 +4,7 @@ Fullstack JavaScript developer focused on building performant web applications a
 #### I work with:
 - Frontend - React, TypeScript, JavaScript, TanStack Query, TailwindCSS, Zustand
 - Backend - Node, Express, MongoDB, Mongoose, REST APIs
-- Tools & others - Git, Figma, Postman, Copilot
+- Tools- Git, Figma, Postman, Copilot
 
 Reach me on 
 

@@ -2,7 +2,7 @@
 Fullstack developer focused on building performant web applications and backend systems.
 
 #### I work with:
-- Frontend - React, TypeScript, JavaScript, TanStack Query, TailwindCSS, Zustand
+- Frontend - React, TypeScript, JavaScript, TanStack Query, React Router, TailwindCSS, Zustand
 - Backend - Node, Express, MongoDB, Mongoose, REST APIs
 - Tools- Git, Figma, Postman, Copilot
 

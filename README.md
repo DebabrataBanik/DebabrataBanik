@@ -1,5 +1,5 @@
 ### Hello 👋, I'm Debabrata
-Fullstack developer focused on building performant web applications and backend systems.
+Frontend developer focused on building performant web applications and backend systems.
 
 #### I work with:
 - Frontend - React, TypeScript, JavaScript, TanStack Query, React Router, TailwindCSS, Zustand
